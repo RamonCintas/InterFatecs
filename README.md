@@ -1,6 +1,6 @@
 <div align="center">
   <b><h1>Maratona InterFatecs</h1></b>
-  <img alt="InterFatecs" height="180"em src="https://interfatecs.com.br/layout/images/logo.svg"/>
+  <img alt="InterFatecs" height="180"em src="https://github.com/RamonCintas/InterFatecs/blob/main/maratona-logo.png"/>
 </div>
 
 ##
